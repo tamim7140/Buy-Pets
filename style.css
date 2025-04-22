@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    background-color: #FFF9F4;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 4vw;
+}
+.navber-description{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.bar{
+    display: flex;
+    gap: 2rem;
+}
